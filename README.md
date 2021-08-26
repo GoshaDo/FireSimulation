@@ -1,2 +1,6 @@
-# FireSimulation
-A simulation of fire station using monte-carlo to determine burst length needed to hit target one in dffrent ranges
+# Accuracy of weapon stand 
+A simulation of fire stand using monte-carlo to determine burst length needed to hit target one time in dffrent ranges by vizulize results of simulation.
+This simulation written in OOP using python for farther reserech
+
+# Mathematical model
+Statisctil model using mote-carlo 
