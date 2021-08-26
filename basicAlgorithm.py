@@ -1,5 +1,4 @@
 #Author : George Dozorets            Date: 23/7/2021
-#                           Job interview at Rafael for research assistant
 #                       Simulates fire of a machinegun from diffrent distances
 #                                   Basic non-objects algorithm
 ############################################################################################
