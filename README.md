@@ -13,7 +13,8 @@ Object based model, for each distance preformining a batch of diffrent experimen
 common error coordinates (x1,y1). For each burst(x1,y1), simulates by ‘monte carlo’ fire
 of the bullets (x2,y2) coordinates. 
 
-![alt text](https://github.com/GoshaDo/FireSimulation/blob/main/AlgorithmFlowChart.png?raw=true "Algorithm flow")
+<img src="https://github.com/GoshaDo/FireSimulation/blob/main/AlgorithmFlowChart.png" width="345" height="690">
+
 
 # Class diagram
 <img src="https://github.com/GoshaDo/FireSimulation/blob/main/ClassDiagram.png" width="1120" height="610">
