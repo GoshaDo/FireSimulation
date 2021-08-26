@@ -18,3 +18,8 @@ of the bullets (x2,y2) coordinates.
 
 # Class diagram
 <img src="https://github.com/GoshaDo/FireSimulation/blob/main/ClassDiagram.png" width="1120" height="610">
+
+#Resualts
+First impression of all simulations resulats
+<img src="https://github.com/GoshaDo/FireSimulation/blob/main/
+CommonErrorDistPlotExample.png" width="612" height="427"><img src="https://github.com/GoshaDo/FireSimulation/blob/main/ShootsDistPlotExample.png" width="873" height="862">
