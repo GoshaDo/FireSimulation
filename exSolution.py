@@ -7,6 +7,7 @@
 #                           (3) Lowering the time and space complexity
 #                           (4) Add propreties to the objects
 ############################################################################################
+
 #this experiants simulats cannon which fires from variaty of distances (D)
 #the experiment returns N times. for each number of burst calculates the AVG of hit to target
 #target size could be changed by suited function, default size of 1 m^3
