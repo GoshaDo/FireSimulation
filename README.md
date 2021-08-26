@@ -22,6 +22,4 @@ of the bullets (x2,y2) coordinates.
 #Resualts
 First impression of all simulations resulats
 
-<img src="https://github.com/GoshaDo/FireSimulation/blob/main/
-CommonErrorDistPlotExample.png" width="612" height="427"><img src="https://github.com/GoshaDo/FireSimulation/blob/main/
-ShootsDistPlotExample.png" width="873" height="862">
+<img src="https://github.com/GoshaDo/FireSimulation/blob/main/CommonErrorDistPlotExample.png" width="612" height="427"><img src="https://github.com/GoshaDo/FireSimulation/blob/main/ShootsDistPlotExample.png" width="873" height="862">
