@@ -3,5 +3,8 @@ A simulation of fire stand using monte-carlo to determine burst length needed to
 This simulation written in OOP using python for farther reserech
 
 # Mathematical model
-Statisctil model using mote-carlo 
+Statisctil model using mote-carlo simulation given 2 types of error as shown if image added.
+Each error have bi-normal distribution 
 ![alt text](https://github.com/GoshaDo/FireSimulation/blob/main/ErrorsPlot.png?raw=true)
+
+
