@@ -4,3 +4,5 @@ This simulation written in OOP using python for farther reserech
 
 # Mathematical model
 Statisctil model using mote-carlo 
+![alt text](https://github.com/GoshaDo/
+FireSimulation/blob/main/ErrorsPlot.png?raw=true)
