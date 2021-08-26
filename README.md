@@ -16,5 +16,4 @@ of the bullets (x2,y2) coordinates.
 ![alt text](https://github.com/GoshaDo/FireSimulation/blob/main/AlgorithmFlowChart.png?raw=true "Algorithm flow")
 
 # Class diagram
-![](https://github.com/GoshaDo/FireSimulation/blob/main/ClassDiagram.png? | width=100)
-
+<img src="https://github.com/GoshaDo/FireSimulation/blob/main/ClassDiagram.png" width="100" height="100">
