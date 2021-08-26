@@ -1,11 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[94]:
-
-
 #Author : George Dozorets            Date: 23/7/2021
-#                           Job interview at Rafael for research assistant
 #                       Simulates fire of a machinegun from diffrent distances
 #
 #        Future Development:
@@ -336,10 +329,7 @@ class bullet(brust):
         self.inTarget = (self.x2<=self.maxTargetX and self.x2>=self.minTargetX and self.y2<=self.maxTargetY and self.y2>=self.minTargetY)        
 
 
-# # Initate Experiments
-
-# In[ ]:
-
+# Initate Experiments
 
 #exp = experiments(10000,10,10)
 #exp.runAllSimulates()
