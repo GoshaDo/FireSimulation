@@ -2,6 +2,7 @@
 #                       Simulates fire of a machinegun from diffrent distances
 #                                   Basic non-objects algorithm
 ############################################################################################
+
 import matplotlib.pyplot as plt
 import numpy as np
 import seaborn as sns
