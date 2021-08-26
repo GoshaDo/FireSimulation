@@ -26,10 +26,10 @@ First impression of all simulations resulats
 <img src="https://github.com/GoshaDo/FireSimulation/blob/main/ShootsDistPlotExample.png" width="623" height="615">
 
 this plot shows brust length needed to hit target once for each distance. we can guess that to hit more in avarage we need longer burst if longer distances.
-<img src="https://github.com/GoshaDo/FireSimulation/blob/main/resualts1N100.png" width="720" height="504">
+<img src="https://github.com/GoshaDo/FireSimulation/blob/main/resualt1N100.png" width="720" height="504">
 
 this plot shows us dependcie of hits in avarage to the distance fired from
-<img src="https://github.com/GoshaDo/FireSimulation/blob/main/resualts2N1000.png" width="720" height="504">
+<img src="https://github.com/GoshaDo/FireSimulation/blob/main/resualt2N1000.png" width="720" height="504">
 
 this plot shows as minimum brust length needed to hit target once from diffrent distances
-<img src="https://github.com/GoshaDo/FireSimulation/blob/main/resualts3N1000.png" width="720" height="504">
+<img src="https://github.com/GoshaDo/FireSimulation/blob/main/resualt3N1000.png" width="720" height="504">
